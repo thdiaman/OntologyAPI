@@ -27,7 +27,7 @@ import com.hp.hpl.jena.util.FileManager;
 /**
  * Provides an API for an ontology in OWL format. Allows adding/deleting instances and properties.
  * 
- * @author Themistoklis Diamantopoulos
+ * @author themis
  */
 public class OntologyJenaAPI {
 
